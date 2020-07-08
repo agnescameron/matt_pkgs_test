@@ -1,0 +1,27 @@
+{
+	"@context": {
+		"@vocab": "http://purl.org/dc/terms/"
+	},
+	"@graph": {
+		"@type": "BibliographicResource",
+		"title": "Method of using T7 DNA polymerase to label the 3' end of a DNA molecule ",
+		"identifier": "US5266466A",
+		"references": [
+			{
+				"@type": "BibliographicResource",
+				"title": "Interaction of bovine erythrocyte superoxide dismutase with hydrogen peroxide. Inactivation of the enzyme",
+				"identifier": "10.1021/bi00695a010"
+			}
+		],
+		"contributor": [
+			{
+				"@type": "Agent",
+				"title": "Stanley Tabor"
+			},
+			{
+				"@type": "Agent",
+				"title": "Charles C. Richardson"
+			}
+		]
+	}
+}

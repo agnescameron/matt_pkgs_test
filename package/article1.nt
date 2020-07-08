@@ -1,0 +1,7 @@
+[object Object]
+Error: {
+  "message": "Error parsing JSON.",
+  "contentType": "json",
+  "url": "article1.jsonld",
+  "exception": "SyntaxError: Unexpected token i in JSON at position 378"
+}

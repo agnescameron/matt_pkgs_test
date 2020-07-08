@@ -1,0 +1,27 @@
+{
+	"@context": {
+		"@vocab": "http://purl.org/dc/terms/"
+	},
+	"@graph": {
+		"@type": "BibliographicResource",
+		"title": "Method of using T7 DNA polymerase to mutagenize and fill-in DNA",
+		"identifier": "US5145776A",
+		"references": [
+			{
+				"@type": "BibliographicResource",
+				"title": "Interaction of bovine erythrocyte superoxide dismutase with hydrogen peroxide. Inactivation of the enzyme",
+				"identifier": "10.1021/bi00695a010"
+			}
+		],
+		"contributor": [
+			{
+				"@type": "Agent",
+				"title": "Stanley Tabor"
+			},
+			{
+				"@type": "Agent",
+				"title": "Charles C. Richardson"
+			}
+		]
+	}
+}

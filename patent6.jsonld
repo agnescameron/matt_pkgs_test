@@ -1,0 +1,27 @@
+{
+	"@context": {
+		"@vocab": "http://purl.org/dc/terms/"
+	},
+	"@graph": {
+		"@type": "BibliographicResource",
+		"title": "Method for sequencing DNA using a T7-type DNA polymerase and short oligonucleotide primers",
+		"identifier": "US5639608A",
+		"references": [
+			{
+				"@type": "BibliographicResource",
+				"title": "Interaction of bovine erythrocyte superoxide dismutase with hydrogen peroxide. Inactivation of the enzyme",
+				"identifier": "10.1021/bi00695a010"
+			}
+		],
+		"contributor": [
+			{
+				"@type": "Agent",
+				"title": "Stanley Tabor"
+			},
+			{
+				"@type": "Agent",
+				"title": "Charles C. Richardson"
+			}
+		]
+	}
+}

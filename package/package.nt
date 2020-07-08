@@ -1,0 +1,7 @@
+[object Object]
+Error: {
+  "message": "Error parsing JSON.",
+  "contentType": "json",
+  "url": "package.jsonld",
+  "exception": "SyntaxError: Unexpected token / in JSON at position 0"
+}
