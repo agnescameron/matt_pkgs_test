@@ -10,34 +10,34 @@
 			{
 				"@type": "BibliographicResource",
 				"title": "Growth-related hormones",
-				identifier: "US4767709A"
+				"identifier": "US4767709A"
 			},
 			{
 				"@type": "BibliographicResource",
 				"title": "T7 DNA polymerase",
-				identifier: "US4942130A"
+				"identifier": "US4942130A"
 			},
 			{
 				"@type": "BibliographicResource",
 				"title": "T7 DNA polymerase",
-				identifier: "US4946786A"
+				"identifier": "US4946786A"
 			},
 			{
 				"@type": "BibliographicResource",
 				"title": "Method of using T7 DNA polymerase to mutagenize and fill-in DNA",
-				identifier: "US5145776A"
+				"identifier": "US5145776A"
 			},
 			{
 				"@type": "BibliographicResource",
 				"title": "Method of using T7 DNA polymerase to label the 3' end of a DNA molecule",
-				identifier: "US5266466A"
+				"identifier": "US5266466A"
 			},
 			{
 				"@type": "BibliographicResource",
 				"title": "Method for sequencing DNA using a T7-type DNA polymerase and short oligonucleotide primers",
-				identifier: "US5639608A"
+				"identifier": "US5639608A"
 			}
-		]
+		],
 		"contributor": [
 			{
 				"@type": "Agent",

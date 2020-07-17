@@ -11,6 +11,11 @@
 				"@type": "BibliographicResource",
 				"title": "Interaction of bovine erythrocyte superoxide dismutase with hydrogen peroxide. Inactivation of the enzyme",
 				"identifier": "10.1021/bi00695a010"
+			},
+			{
+				"@type": "BibliographicResource",
+				"title": "T7 DNA polymerase",
+				"identifier": "US4942130A"
 			}
 		],
 		"contributor": [
