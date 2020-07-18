@@ -5,7 +5,7 @@ This is a test script to translate a subset of Matt Marx's [Reliance on Science 
 ### installing
 
 ```
-
+pip install requirements.txt
 ```
 
 If you fork the script, be sure to replace the 'remote_repo' variable with a link to wherever you're storing the code online, to make sure the provenance is correct, and change the email address to yours so I don't get a snarky letter from PubMed.
