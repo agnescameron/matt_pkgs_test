@@ -1,0 +1,23 @@
+{
+    "@context": {
+        "@prov": "https://zenodo.org/record/3755799",
+        "@vocab": "http://purl.org/dc/terms/",
+        "script": "https://github.com/agnescameron/matt_pkgs_test"
+    },
+    "@graph": {
+        "@type": "BibliographicResource",
+        "contributor": [
+            "Ramon  Eritja",
+            "Ramon Guimil Garcia"
+        ],
+        "identifier": "6831072",
+        "references": [
+            {
+                "@type": "BibliographicResource",
+                "identifier": "http://dx.doi.org/10.1021/bi00694a002",
+                "title": "Poly(8-aminoguanylic acid): formation of ordered self-structures and interaction with poly(cytidylic acid)."
+            }
+        ],
+        "title": "COMPOSITIONS AND METHODS OF SYNTHESIS AND USE OF NOVEL NUCLEIC ACID STRUCTURES"
+    }
+}
