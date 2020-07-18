@@ -4,7 +4,6 @@ import json
 import datetime
 from uspto.peds.client import UsptoPatentExaminationDataSystemClient
 from uspto.peds.document import UsptoPatentExaminationDataSystemDocument
-client = UsptoPatentExaminationDataSystemClient()
 import os
 
 #change these if you fork the repo
@@ -18,6 +17,7 @@ patentNum = 0
 
 #url is https://pubmed.ncbi.nlm.nih.gov/ + pmid
 url_prefix = 'http://www.ncbi.nlm.nih.gov/pubmed/'
+client = UsptoPatentExaminationDataSystemClient()
 
 context = {
 	"@vocab": "http://purl.org/dc/terms/",
