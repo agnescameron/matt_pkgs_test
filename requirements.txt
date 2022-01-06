@@ -6,7 +6,7 @@ billiard==3.5.0.5
 biopython==1.77
 bs4==0.0.1
 cachetools==4.1.1
-celery==4.1.0
+celery==5.2.2
 certifi==2020.6.20
 chardet==3.0.4
 clint==0.5.1
