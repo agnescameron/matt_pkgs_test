@@ -21,7 +21,7 @@ lxml==4.2.5
 numpy==1.19.0
 pandas==1.0.5
 pathvalidate==0.16.2
-protobuf==3.12.3
+protobuf==3.15.0
 pubmed-lookup==0.2.3
 PyLD==2.0.2
 pyparsing==2.4.7
