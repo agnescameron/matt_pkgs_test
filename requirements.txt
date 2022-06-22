@@ -18,7 +18,7 @@ isodate==0.6.0
 jsonpointer==1.12
 kombu==4.6.11
 lxml==4.2.5
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 pathvalidate==0.16.2
 protobuf==3.12.3
